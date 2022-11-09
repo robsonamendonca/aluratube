@@ -3,6 +3,34 @@
     "job": "Backend Software Engineering",
     "github": "robsonamendonca",
     "playlists": {       
+		"Newsletter":[
+			{
+				"title": "@000 - Filipe Deschamps News (Trailer)",
+                "url": "https://www.youtube.com/watch?v=9Pq6mFFulh0",
+                "thumb": "https://img.youtube.com/vi/9Pq6mFFulh0/hqdefault.jpg"
+			},
+			{
+				"title": "@476 - Óculos VR letal / IA boa de matemática / Marco histórico na Mastodon",
+                "url": "https://www.youtube.com/watch?v=KaEonDvbwLI",
+                "thumb": "https://img.youtube.com/vi/KaEonDvbwLI/hqdefault.jpg"
+			},
+						{
+				"title": "@000 - Filipe Deschamps News (Trailer)",
+                "url": "https://www.youtube.com/watch?v=9Pq6mFFulh0",
+                "thumb": "https://img.youtube.com/vi/9Pq6mFFulh0/hqdefault.jpg"
+			},
+			{
+				"title": "@000 - Filipe Deschamps News (Trailer)",
+                "url": "https://www.youtube.com/watch?v=9Pq6mFFulh0",
+                "thumb": "https://img.youtube.com/vi/9Pq6mFFulh0/hqdefault.jpg"
+			},
+			{
+				"title": "@000 - Filipe Deschamps News (Trailer)",
+                "url": "https://www.youtube.com/watch?v=9Pq6mFFulh0",
+                "thumb": "https://img.youtube.com/vi/9Pq6mFFulh0/hqdefault.jpg"
+			},
+			
+		],
         "front-end": [
             {
                 "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
